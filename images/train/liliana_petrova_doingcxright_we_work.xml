@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>liliana_petrova_doingcxright_we_work.jpg</filename>
+	<path>/home/afzal/wework logo/liliana_petrova_doingcxright_we_work.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>535</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>121</ymin>
+			<xmax>355</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

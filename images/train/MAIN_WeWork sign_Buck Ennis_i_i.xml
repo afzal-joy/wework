@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>MAIN_WeWork sign_Buck Ennis_i_i.jpg</filename>
+	<path>/home/afzal/wework logo/MAIN_WeWork sign_Buck Ennis_i_i.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2113</width>
+		<height>1332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>244</ymin>
+			<xmax>1762</xmax>
+			<ymax>906</ymax>
+		</bndbox>
+	</object>
+</annotation>

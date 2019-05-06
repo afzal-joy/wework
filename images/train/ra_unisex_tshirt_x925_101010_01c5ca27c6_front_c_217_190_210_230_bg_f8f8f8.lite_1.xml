@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>ra_unisex_tshirt_x925_101010_01c5ca27c6_front_c_217_190_210_230_bg_f8f8f8.lite_1.jpg</filename>
+	<path>/home/afzal/wework logo/ra_unisex_tshirt_x925_101010_01c5ca27c6_front_c_217_190_210_230_bg_f8f8f8.lite_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>210</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>84</ymin>
+			<xmax>152</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

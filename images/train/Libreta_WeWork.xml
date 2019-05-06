@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>Libreta_WeWork.jpg</filename>
+	<path>/home/afzal/wework logo/Libreta_WeWork.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>754</width>
+		<height>776</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>535</ymin>
+			<xmax>317</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+</annotation>
