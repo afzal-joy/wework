@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>From_Googling_‘What_Is_Business_School’_to_Teaching_the_Art_of_Applying4.jpg</filename>
+	<path>/home/afzal/wework logo/From_Googling_‘What_Is_Business_School’_to_Teaching_the_Art_of_Applying4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>778</ymin>
+			<xmax>517</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

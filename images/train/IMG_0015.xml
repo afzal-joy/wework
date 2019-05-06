@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>IMG_0015.JPG</filename>
+	<path>/home/afzal/wework logo/IMG_0015.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1537</width>
+		<height>2049</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>1570</ymin>
+			<xmax>877</xmax>
+			<ymax>1640</ymax>
+		</bndbox>
+	</object>
+</annotation>

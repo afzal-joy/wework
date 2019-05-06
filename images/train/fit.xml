@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>fit.jpg</filename>
+	<path>/home/afzal/wework logo/fit.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>717</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>83</ymin>
+			<xmax>717</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

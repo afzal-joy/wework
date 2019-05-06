@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>KaranVirwani_2018_0003_1.jpg</filename>
+	<path>/home/afzal/wework logo/KaranVirwani_2018_0003_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>403</ymin>
+			<xmax>551</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

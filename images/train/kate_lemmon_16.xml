@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>kate_lemmon_16.jpg</filename>
+	<path>/home/afzal/wework logo/kate_lemmon_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>323</ymin>
+			<xmax>342</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

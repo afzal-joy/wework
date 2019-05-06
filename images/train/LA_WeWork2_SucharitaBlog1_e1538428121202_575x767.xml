@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>LA_WeWork2_SucharitaBlog1_e1538428121202_575x767.jpg</filename>
+	<path>/home/afzal/wework logo/LA_WeWork2_SucharitaBlog1_e1538428121202_575x767.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>302</ymin>
+			<xmax>334</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
