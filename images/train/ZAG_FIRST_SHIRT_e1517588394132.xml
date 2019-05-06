@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>ZAG_FIRST_SHIRT_e1517588394132.jpg</filename>
+	<path>/home/afzal/wework logo/ZAG_FIRST_SHIRT_e1517588394132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2575</width>
+		<height>1065</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>113</ymin>
+			<xmax>304</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

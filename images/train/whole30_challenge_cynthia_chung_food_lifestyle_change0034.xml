@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>whole30_challenge_cynthia_chung_food_lifestyle_change0034.png</filename>
+	<path>/home/afzal/wework logo/whole30_challenge_cynthia_chung_food_lifestyle_change0034.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>436</ymin>
+			<xmax>176</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>what_you_need_to_know_before_jumping_in1.png</filename>
+	<path>/home/afzal/wework logo/what_you_need_to_know_before_jumping_in1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>106</ymin>
+			<xmax>311</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

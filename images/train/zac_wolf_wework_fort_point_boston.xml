@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>zac_wolf_wework_fort_point_boston.jpg</filename>
+	<path>/home/afzal/wework logo/zac_wolf_wework_fort_point_boston.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>385</ymin>
+			<xmax>556</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

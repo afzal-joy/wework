@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>WeWorkCreatorAwards.jpg</filename>
+	<path>/home/afzal/wework logo/WeWorkCreatorAwards.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>124</ymin>
+			<xmax>559</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
