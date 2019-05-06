@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>At_New_WeWork_Services_Store_One_Stop_Shopping_for_Businesses.jpg</filename>
+	<path>/home/afzal/wework logo/At_New_WeWork_Services_Store_One_Stop_Shopping_for_Businesses.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3487</width>
+		<height>1903</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2123</xmin>
+			<ymin>1305</ymin>
+			<xmax>2206</xmax>
+			<ymax>1394</ymax>
+		</bndbox>
+	</object>
+</annotation>

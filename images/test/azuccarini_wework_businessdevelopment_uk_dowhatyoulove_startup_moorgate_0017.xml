@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>azuccarini_wework_businessdevelopment_uk_dowhatyoulove_startup_moorgate_0017.jpg</filename>
+	<path>/home/afzal/wework logo/azuccarini_wework_businessdevelopment_uk_dowhatyoulove_startup_moorgate_0017.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>391</ymin>
+			<xmax>500</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
