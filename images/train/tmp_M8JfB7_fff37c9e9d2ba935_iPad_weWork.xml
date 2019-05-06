@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>tmp_M8JfB7_fff37c9e9d2ba935_iPad_weWork.JPG</filename>
+	<path>/home/afzal/wework logo/tmp_M8JfB7_fff37c9e9d2ba935_iPad_weWork.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1512</width>
+		<height>2016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1160</xmin>
+			<ymin>959</ymin>
+			<xmax>1309</xmax>
+			<ymax>1014</ymax>
+		</bndbox>
+	</object>
+</annotation>

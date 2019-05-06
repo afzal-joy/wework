@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>theedge_wework_T_Fuad_1000x575.jpg</filename>
+	<path>/home/afzal/wework logo/theedge_wework_T_Fuad_1000x575.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>362</ymin>
+			<xmax>410</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

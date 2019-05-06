@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>we_work_metropool_12.jpg</filename>
+	<path>/home/afzal/wework logo/we_work_metropool_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>1350</ymin>
+			<xmax>692</xmax>
+			<ymax>1410</ymax>
+		</bndbox>
+	</object>
+</annotation>

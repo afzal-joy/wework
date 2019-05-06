@@ -1,0 +1,38 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>wework_identity_00.jpg</filename>
+	<path>/home/afzal/wework logo/wework_identity_00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>832</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1216</xmin>
+			<ymin>502</ymin>
+			<xmax>1596</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1452</xmin>
+			<ymin>361</ymin>
+			<xmax>1599</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
