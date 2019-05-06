@@ -1,0 +1,38 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>20160128_hq_chelsea_10.jpg</filename>
+	<path>/home/afzal/wework logo/20160128_hq_chelsea_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>347</ymin>
+			<xmax>253</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>401</ymin>
+			<xmax>554</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>
