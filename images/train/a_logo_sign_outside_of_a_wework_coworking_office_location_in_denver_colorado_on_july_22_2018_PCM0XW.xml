@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>a_logo_sign_outside_of_a_wework_coworking_office_location_in_denver_colorado_on_july_22_2018_PCM0XW.jpg</filename>
+	<path>/home/afzal/wework logo/a_logo_sign_outside_of_a_wework_coworking_office_location_in_denver_colorado_on_july_22_2018_PCM0XW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>741</xmin>
+			<ymin>108</ymin>
+			<xmax>1043</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

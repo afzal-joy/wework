@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>co_funded_by_charles_koh_365298_2.jpg</filename>
+	<path>/home/afzal/wework logo/co_funded_by_charles_koh_365298_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>257</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>109</ymin>
+			<xmax>322</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

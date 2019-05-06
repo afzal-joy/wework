@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>bloomscape_office_main_image.jpg</filename>
+	<path>/home/afzal/wework logo/bloomscape_office_main_image.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1760</width>
+		<height>2016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1046</xmin>
+			<ymin>1581</ymin>
+			<xmax>1400</xmax>
+			<ymax>1683</ymax>
+		</bndbox>
+	</object>
+</annotation>
