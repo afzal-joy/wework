@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wework logo</folder>
+	<filename>186_1866677_wework_logos_v2_thegrind_1_custom_1_5_oz.png</filename>
+	<path>/home/afzal/wework logo/186_1866677_wework_logos_v2_thegrind_1_custom_1_5_oz.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wework</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>455</ymin>
+			<xmax>509</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>
