@@ -98,6 +98,3 @@ def main(_):
 
 if __name__ == '__main__':
     tf.app.run()
-×
-Drag and Drop
-The image will be downloaded by Fatkun
